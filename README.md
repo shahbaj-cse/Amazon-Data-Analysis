@@ -131,9 +131,8 @@ The project architecture outlines the end-to-end data pipeline for **Amazon-Data
 
 3. **Dashboard Output:**  
    - Designed an interactive and responsive dashboard summarizing findings.
-   - [Interactive Looker Dashboard](https://lookerstudio.google.com/reporting/a1ba9cb6-dd5f-476a-b672-41d978b10019)
-   - [View the Dashboard PDF](Amazon_Dashboard.pdf).
-
+   - [View the Dashboard PDF]([Amazon_Dashboard.pdf](https://lookerstudio.google.com/reporting/a1ba9cb6-dd5f-476a-b672-41d978b10019)).
+   - ![Dashboard](Amazon_Dashboard.png)
 ---
 
 ## Repository Structure
